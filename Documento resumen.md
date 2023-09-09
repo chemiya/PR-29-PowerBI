@@ -89,8 +89,7 @@
 <h3>
             <li>Supermarket sales</li>
         </h3>
-
-        El dashboard sobre este dataset y el archivo con los datos del dataset se encuentran en la carpeta "Supermarket
+El dashboard sobre este dataset y el archivo con los datos del dataset se encuentran en la carpeta "Supermarket
         sales dashboard"
 
 
@@ -175,8 +174,8 @@
                 <li>Name: nombre del circuito</li>
                 <li>Location: localización donde se encuentra</li>
                 <li>Country: pais donde se encuentra</li>
-                <li></li>
-            </ul>
+                
+</ul>
 
 
 <h4>
@@ -185,8 +184,8 @@
             <ul>
                 <li>ConstructorId</li>
                 <li>Name: nombre del constructor</li>
-                <li></li>
-            </ul>
+                
+</ul>
 
 
 <h4>
@@ -196,8 +195,8 @@
                 <li>DriverId</li>
                 <li>Name: nombre del piloto</li>
                 <li>Nacionality: nacionalidad del piloto</li>
-                <li></li>
-            </ul>
+                
+</ul>
 
 <h4>
                 <li>Atributos del dataset: Carrera</li>
@@ -207,8 +206,8 @@
                 <li>Year: año de la carrera</li>
                 <li>CircuitId: id del circuito donde se celebra</li>
                 <li>Name: nombre de la carrera</li>
-                <li></li>
-            </ul>
+                
+</ul>
 
 <h4>
                 <li>Atributos del dataset: Resultado</li>
@@ -220,8 +219,8 @@
                 <li>ConstructorId: id del constructor del piloto</li>
                 <li>Position: posición del piloto en la carrera</li>
                 <li>Points: puntos obtenidos por el piloto</li>
-                <li></li>
-            </ul>
+                
+</ul>
 
 
 <h4>
@@ -276,8 +275,8 @@
             <ul>
                 <li>TeamId</li>
                 <li>Name: nombre del equipo</li>
-                <li></li>
-            </ul>
+                
+</ul>
 
 <h4>
                 <li>Atributos del dataset: Equipo_atributos</li>
@@ -529,7 +528,7 @@
     </h2>
     Repositorio Github:
 
-    Video Youtube:
+Video Youtube:
 
 <h2>
         <li>Conclusiones</li>
