@@ -17,9 +17,7 @@
 
 
 
-    <h2>
-        <li>Análisis de cada dataset</li>
-    </h2>
+<h2><li>Análisis de cada dataset</li></h2>
     <ol>
         <h3>
             <li>Videogames sales</li>
@@ -27,13 +25,11 @@
         El dashboard sobre este dataset y el archivo con los datos del dataset se encuentran en la carpeta "videogames
         sales dashboard"
 
-        <ul>
-            <h4>
-                <li>Descripción del dataset</li>
-            </h4>
+<ul>
+            <h4><li>Descripción del dataset</li></h4>
             Este conjunto de datos contiene los datos de ventas de videojuegos con más de 100.000 ventas.
 
-            <h4>
+<h4>
                 <li>Atributos del dataset</li>
             </h4>
             <ul>
@@ -49,9 +45,9 @@
                 <li>OtherSales: ventas en el resto del mundo (millones)</li>
                 <li>GlobalSales: ventas globales (millones)</li>
 
-            </ul>
+</ul>
 
-            <h4>
+<h4>
                 <li>Preguntas a responder</li>
             </h4>
             <ul>
@@ -64,12 +60,9 @@
                 <li>¿Cuál ha sido el número de ventas de videojuegos en Europa para el género de deportes para la
                     plataforma PS4?</li>
 
-            </ul>
+</ul>
 
-
-        </ul>
-
-
+</ul>
 
 
 
@@ -91,7 +84,9 @@
 
 
 
-        <h3>
+
+
+<h3>
             <li>Supermarket sales</li>
         </h3>
 
@@ -99,17 +94,17 @@
         sales dashboard"
 
 
-        <ul>
+<ul>
             <h4>
                 <li>Descripción del dataset</li>
             </h4>
             Este conjunto de datos contiene las ventas de los productos de un supermercado
 
-            <h4>
+<h4>
                 <li>Atributos del dataset</li>
             </h4>
 
-            <ul>
+<ul>
                 <li>Invoice id: id de la factura</li>
                 <li>Branch: rama del supermercado</li>
                 <li>City: localización del supermercado</li>
@@ -130,13 +125,13 @@
 
 
 
-            </ul>
+</ul>
 
-            <h4>
+<h4>
                 <li>Preguntas a responder</li>
             </h4>
 
-            <ul>
+<ul>
                 <li>¿Cuál han sido los ingresos brutos de todos los productos vendidos en la ciudad de Yangon?</li>
                 <li>¿Cuál son los ingresos brutos obtenidos por los productos comprados por los consumidores que son de
                     tipo miembro y pagan con cash?</li>
@@ -147,11 +142,9 @@
                 <li>¿Cuál fue el dia que más ingresos brutos se obtuvieron en la ciudad de Yangon? </li>
 
 
-            </ul>
+</ul>
 
-        </ul>
-
-
+</ul>
 
 
 
@@ -161,7 +154,8 @@
 
 
 
-        <h3>
+
+<h3>
             <li>Formula 1 World Championship (1950 - 2023)</li>
         </h3>
         El dashboard sobre este dataset y los archivos con los datos del dataset se encuentran en la carpeta "F1
@@ -173,7 +167,7 @@
             Este conjunto de datos contiene todos los datos de las temporadas entre 1950 y 2023 de la
             Formula 1. Este dataset agrupa diferentes dataset. A continuación, se describe cada uno de ellos.
 
-            <h4>
+<h4>
                 <li>Atributos del dataset: Circuitos</li>
             </h4>
             <ul>
@@ -185,7 +179,7 @@
             </ul>
 
 
-            <h4>
+<h4>
                 <li>Atributos del dataset: Constructores</li>
             </h4>
             <ul>
@@ -195,7 +189,7 @@
             </ul>
 
 
-            <h4>
+<h4>
                 <li>Atributos del dataset: Pilotos</li>
             </h4>
             <ul>
@@ -205,7 +199,7 @@
                 <li></li>
             </ul>
 
-            <h4>
+<h4>
                 <li>Atributos del dataset: Carrera</li>
             </h4>
             <ul>
@@ -216,7 +210,7 @@
                 <li></li>
             </ul>
 
-            <h4>
+<h4>
                 <li>Atributos del dataset: Resultado</li>
             </h4>
             <ul>
@@ -230,7 +224,7 @@
             </ul>
 
 
-            <h4>
+<h4>
                 <li>Preguntas a responder</li>
             </h4>
             <ul>
@@ -243,7 +237,7 @@
                     puntos? </li>
 
 
-            </ul>
+</ul>
         </ul>
 
 
@@ -261,14 +255,13 @@
 
 
 
-
-        <h3>
+<h3>
             <li>European Soccer Database</li>
         </h3>
         El dashboard sobre este dataset y los archivos con los datos del dataset se encuentran en la carpeta "Futbol
         dashboard".
 
-        <ul>
+<ul>
             <h4>
                 <li>Descripción del dataset</li>
             </h4>
@@ -277,7 +270,7 @@
 
 
 
-            <h4>
+<h4>
                 <li>Atributos del dataset: Equipo</li>
             </h4>
             <ul>
@@ -286,7 +279,7 @@
                 <li></li>
             </ul>
 
-            <h4>
+<h4>
                 <li>Atributos del dataset: Equipo_atributos</li>
             </h4>
             <ul>
@@ -301,17 +294,16 @@
             </ul>
 
 
-            <h4>
+<h4>
                 <li>Atributos del dataset: Jugador</li>
             </h4>
             <ul>
                 <li>PlayerId</li>
                 <li>Name: nombre del jugador</li>
                 <li>Birthday: fecha de nacimiento del jugador</li>
+</ul>
 
-            </ul>
-
-            <h4>
+<h4>
                 <li>Atributos del dataset: Jugador_atributos</li>
             </h4>
             <ul>
@@ -344,12 +336,12 @@
                 <li>GkPositioning: capacidad como portero para posicionarse</li>
                 <li>GkReflexes: reflejos como portero</li>
 
-            </ul>
+</ul>
 
 
 
 
-            <h4>
+<h4>
                 <li>Preguntas a responder</li>
             </h4>
             <ul>
@@ -359,17 +351,15 @@
                     y de pase?</li>
 
 
-            </ul>
-
-        </ul>
-
+</ul>
+</ul>
 
 
 
 
 
 
-        <h3>
+<h3>
             <li>Product sales dataset</li>
         </h3>
         El dashboard sobre este dataset y los archivos con los datos del dataset se encuentran en la carpeta
@@ -380,7 +370,7 @@
             </h4>
             Este dataset contiene los datos de los productos vendidos por una compañía
 
-            <h4>
+<h4>
                 <li>Atributos del dataset</li>
             </h4>
             <ul>
@@ -393,13 +383,13 @@
                 <li>Gastos: gastos generados por el producto</li>
 
 
-            </ul>
+</ul>
 
 
 
 
 
-            <h4>
+<h4>
                 <li>Preguntas a responder</li>
             </h4>
             <ul>
@@ -412,16 +402,15 @@
                     Europa?</li>
                 <li>¿Qué beneficios y margen se obtuvo en 2020 por la venta de productos de tipo TV en Asia?</li>
 
-            </ul>
+</ul>
 
 
-        </ul>
+</ul>
 
 
 
 
-
-        <h3>
+<h3>
             <li>Product sales second dataset</li>
         </h3>
         El dashboard sobre este dataset y los archivos con los datos del dataset se encuentran en la carpeta "product
@@ -433,7 +422,7 @@
             </h4>
             Este dataset contiene los datos de los productos vendidos por una compañía
 
-            <h4>
+<h4>
                 <li>Atributos del dataset</li>
             </h4>
             <ul>
@@ -445,13 +434,13 @@
                 <li>Gastos: gastos generados por el producto</li>
 
 
-            </ul>
+</ul>
 
 
 
 
 
-            <h4>
+<h4>
                 <li>Preguntas a responder</li>
             </h4>
             <ul>
@@ -466,15 +455,14 @@
                     marca
                     Nextec en Chile en el año 2022?</li>
 
-            </ul>
+</ul>
+
+</ul>
 
 
-        </ul>
 
 
-
-
-        <h3>
+<h3>
             <li>World population dataset</li>
         </h3>
         El dashboard sobre este dataset y los archivos con los datos del dataset se encuentran en la carpeta "Population
@@ -485,7 +473,7 @@
             </h4>
             Este dataset contiene los datos de la población en diferentes paises
 
-            <h4>
+<h4>
                 <li>Atributos del dataset</li>
             </h4>
             <ul>
@@ -499,10 +487,10 @@
                 <li>Growth rate: ratio de crecimiento de la población</li>
                 <li>World population porcentage: porcentaje de la población mundial</li>
 
-            </ul>
+</ul>
 
 
-            <h4>
+<h4>
                 <li>Preguntas a responder</li>
             </h4>
             <ul>
@@ -516,14 +504,11 @@
                     superior a
                     los 300 habitantes por km2?</li>
 
-            </ul>
+</ul>
 
+</ul>
 
-        </ul>
-
-
-    </ol>
-
+</ol>
 
 
 
@@ -539,15 +524,14 @@
 
 
 
-    <h2>
+<h2>
         <li>Resultado final: vídeo youtube y repositorio</li>
     </h2>
     Repositorio Github:
 
     Video Youtube:
 
-
-    <h2>
+<h2>
         <li>Conclusiones</li>
     </h2>
     He comprendido diferentes dataset y he podido obtener datos valiosos sobre ellos mediante PowerBI. Con esta
