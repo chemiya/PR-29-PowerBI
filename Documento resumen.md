@@ -517,9 +517,11 @@ El dashboard sobre este dataset y el archivo con los datos del dataset se encuen
 
 
 
+<h2>
+        <li>Tiempo empleado</li>
+    </h2>
 
-
-
+<img src="./tiempo empleado.png">
 
 
 
